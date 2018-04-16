@@ -2,10 +2,10 @@
 ---
 
 @import "{{ site.theme }}";
-@import url('https://fonts.googleapis.com/css?family=Eczar:500,700|Proza+Libre:400,400i,700|PT+Mono');
+@import url('https://fonts.googleapis.com/css?family=Aref+Ruqaa:700|Proza+Libre:400,400i,700|PT+Mono');
 
 #project_title {
-  font-family: 'Eczar', sans-serif;
+  font-family: 'Aref Ruqaa', sans-serif;
   font-weight: 700;
   font-size: 50px;
   line-height: 0.8em;
@@ -16,8 +16,8 @@
 }
 
 h2, h3, h4, h5, h6 {
-  font-family: 'Eczar', sans-serif;
-  font-weight: 500;
+  font-family: 'Aref Ruqaa', sans-serif;
+  font-weight: 700;
 }
 
 pre, code {
