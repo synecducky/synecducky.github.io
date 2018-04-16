@@ -2,10 +2,10 @@
 ---
 
 @import "{{ site.theme }}";
-@import url('https://fonts.googleapis.com/css?family=Aref+Ruqaa:700|Proza+Libre:400,400i,700|PT+Mono');
+@import url('https://fonts.googleapis.com/css?family=Eczar:500,700|Gentium+Book+Basic:400,400i,700|PT+Mono');
 
 #project_title {
-  font-family: 'Aref Ruqaa', sans-serif;
+  font-family: 'Eczar', sans-serif;
   font-weight: 700;
   font-size: 50px;
   line-height: 0.8em;
@@ -16,16 +16,17 @@
 }
 
 h2, h3, h4, h5, h6 {
-  font-family: 'Aref Ruqaa', sans-serif;
-  font-weight: 700;
+  font-family: 'Eczar', sans-serif;
+  font-weight: 500;
 }
 
 pre, code {
   font-family: 'PT Mono', monospace;
+  font-size: 18px;
 }
 
 body {
-  font-family: 'Proza Libre', serif;
-  font-size: 19px;
+  font-family: 'Gentium Book Basic', serif;
+  font-size: 21px;
   hyphens: auto;
 }
