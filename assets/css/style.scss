@@ -2,9 +2,13 @@
 ---
 
 @import "{{ site.theme }}";
-
-@import url('https://fonts.googleapis.com/css?family=Eczar:700');
+@import url('https://fonts.googleapis.com/css?family=Eczar:700|Gentium+Book+Basic');
 
 h1, h2, h3, h4, h5, h6 {
   font-family: 'Eczar', sans-serif;
+}
+
+body {
+  font-family: 'Gentium Book Basic', serif;
+  font-size: 19px;
 }
