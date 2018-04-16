@@ -2,10 +2,14 @@
 ---
 
 @import "{{ site.theme }}";
-@import url('https://fonts.googleapis.com/css?family=Eczar:700|Gentium+Book+Basic');
+@import url('https://fonts.googleapis.com/css?family=Eczar:700|Gentium+Book+Basic|PT+Mono');
 
 h1, h2, h3, h4, h5, h6 {
   font-family: 'Eczar', sans-serif;
+}
+
+pre, code {
+  font-family: 'PT Mono', monospace;
 }
 
 body {
