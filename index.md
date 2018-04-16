@@ -1,37 +1,36 @@
-## Atharva is a tool
+## Admonition Against Ebony
+_To anyone reading this:_ **Beware the Blade**
 
-You can use the [editor on GitHub](https://github.com/synecducky/synecducky.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+It is hoped that the only people having access to this room should be the Jarl of Whiterun and his trusted wizard. If anyone else is reading this, please understand the magnitude of your folly, turn around, and never even speak of this room or this blade to anyone.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+It has corrupted and perverted the desires of great men and women. Yet its power is without equal—to kill while your victim smiles at you. Only a daedra most foul could have concocted such a malevolent and twisted weapon. But it appears that all who wield it end up with the crazed eyes of those wild men who roam the hills chattering with rabbits.
 
-### Markdown
+It is not to be trifled with. Not even the hottest fires of the Skyforge could melt it; indeed the coals themselves seemed to cool when it was placed within. We cannot destroy it, and we would not have it fall into the hands of our enemies. So we keep it, hidden, dark and deep within Dragonsreach, never to be used.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Woe be to any who choose to take it. 
 
-```markdown
-Syntax highlighted code block
+### Notes on Yngol Barrow
+What a peculiar place the barrow turned out to be. I hadn't explored for very long before reaching this elaborate room and gate locking me from going further into the crypt.
 
-# Header 1
-## Header 2
-### Header 3
+I confess it - I'm relieved! This place puts the fear of Oblivion into me. There are some carvings in this room. I'll attempt to transcribe them for the College so I have something to show for this effort.
 
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
 ```
+All was so in Atmora
+land of truth and our home
+man in his throne,
+so should he be
+Whale in the sea
+so should he be
+Eagle in Sun's Sky
+so should he be
+Snake in the weed
+so should he be
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/synecducky/synecducky.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+Sorrow! For the Sea-Ghosts took Yngol
+Prize Brother of Sail from Atmora's Fleet
+And none on land
+nor sky, nor sea
+would ever again
+be as should be
+```
+Fascinating, these ancient Nords. I wonder what other secrets are hidden here? Surely there can't be any harm in trying to go a little further, and there is a lever here which must open the gate beyond. 
