@@ -2,7 +2,7 @@
 ---
 
 @import "{{ site.theme }}";
-@import url('https://fonts.googleapis.com/css?family=Eczar:500,700|Gentium+Book+Basic:400,400i,700|PT+Mono');
+@import url('https://fonts.googleapis.com/css?family=Eczar:500,700|Proza+Libre:400,400i,700|PT+Mono');
 
 #project_title {
   font-family: 'Eczar', sans-serif;
@@ -25,7 +25,7 @@ pre, code {
 }
 
 body {
-  font-family: 'Gentium Book Basic', serif;
-  font-size: 19px;
+  font-family: 'Proza Libre', serif;
+  font-size: 21px;
   hyphens: auto;
 }
