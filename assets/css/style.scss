@@ -4,15 +4,27 @@
 @import "{{ site.theme }}";
 @import url('https://fonts.googleapis.com/css?family=Vollkorn:700,900|Amiri:400,400i,700|PT+Mono');
 
+#main_content_wrap {
+    background: #f2f2f2;
+}
+
+#header_wrap {
+    background: #f2f2f2;
+}
+
 #project_title {
   font-family: 'Vollkorn', sans-serif;
   font-weight: 900;
   font-size: 50px;
+  color:#2c2c2c;
   line-height: 0.8em;
+  text-shadow: none;
 }
 
 #project_tagline {
   font-size: 24px;
+  color:#2c2c2c;
+  text-shadow: none;
 }
 
 h2, h3, h4, h5, h6 {
